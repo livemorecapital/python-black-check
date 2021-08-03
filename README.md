@@ -28,7 +28,7 @@ This tells `black` which files we should ignore.
 Include this in your `.github/workflows/main.yaml`:
 
 ```yaml
-uses: RojerGS/python-black-check@master
+uses: MaciejWiczk/python-black-check@master
 ```
 or, if you want to override any of the defaults,
 
