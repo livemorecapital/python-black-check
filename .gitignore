@@ -1,0 +1,6 @@
+# PyCharm/Idea directory
+.idea
+**/*.iml
+
+# Visual Studio Code files
+.vscode/
